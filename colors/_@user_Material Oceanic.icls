@@ -4,7 +4,7 @@
     <property name="created">2018-09-19T11:54:07</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2018.1.4.0.0</property>
-    <property name="modified">2018-10-01T12:15:35</property>
+    <property name="modified">2018-10-01T13:42:31</property>
     <property name="originalScheme">Material Oceanic</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -2233,7 +2233,7 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="da008a" />
+        <option name="BACKGROUND" value="870f" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -3697,7 +3697,7 @@
     <option name="UNMATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="d1243b" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FONT_TYPE" value="3" />
       </value>
     </option>
     <option name="Unresolved reference access">
