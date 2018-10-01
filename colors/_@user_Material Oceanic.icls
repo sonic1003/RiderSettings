@@ -4,7 +4,7 @@
     <property name="created">2018-09-19T11:54:07</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2018.1.4.0.0</property>
-    <property name="modified">2018-10-01T12:08:34</property>
+    <property name="modified">2018-10-01T12:15:35</property>
     <property name="originalScheme">Material Oceanic</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -676,6 +676,11 @@
     <option name="DEFAULT_PREDEFINED_SYMBOL">
       <value>
         <option name="FOREGROUND" value="82aaff" />
+      </value>
+    </option>
+    <option name="DEFAULT_REASSIGNED_LOCAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="eeffe3" />
       </value>
     </option>
     <option name="DEFAULT_SEMICOLON">
@@ -1358,6 +1363,9 @@
       </value>
     </option>
     <option name="KOTLIN_IMPLICIT_EXHAUSTIVE_WHEN">
+      <value />
+    </option>
+    <option name="KOTLIN_LABEL">
       <value />
     </option>
     <option name="KOTLIN_MUTABLE_VARIABLE">
@@ -2225,8 +2233,7 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="da008a" />
-        <option name="BACKGROUND" value="bc12" />
+        <option name="BACKGROUND" value="da008a" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -3268,11 +3275,6 @@
     <option name="ReSharper.LATE_BOUND_IDENTIFIER">
       <value>
         <option name="FOREGROUND" value="eeffff" />
-      </value>
-    </option>
-    <option name="ReSharper.MUTABLE_LOCAL_VARIABLE_IDENTIFIER">
-      <value>
-        <option name="FOREGROUND" value="eeffe3" />
       </value>
     </option>
     <option name="ReSharper.NAMESPACE_IDENTIFIER">
