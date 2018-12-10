@@ -4,7 +4,7 @@
     <property name="created">2018-09-19T11:54:07</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2018.1.4.0.0</property>
-    <property name="modified">2018-11-01T11:12:58</property>
+    <property name="modified">2018-12-10T11:51:07</property>
     <property name="originalScheme">Material Oceanic</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -1218,7 +1218,7 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="fffbf7" />
+        <option name="EFFECT_COLOR" value="ff0400" />
         <option name="ERROR_STRIPE_COLOR" value="4d6168" />
       </value>
     </option>
@@ -3648,7 +3648,7 @@
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="32424a" />
-        <option name="BACKGROUND" value="f8e71c" />
+        <option name="BACKGROUND" value="f86a" />
       </value>
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
@@ -3729,7 +3729,7 @@
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="fffbf7" />
+        <option name="EFFECT_COLOR" value="ff000a" />
         <option name="ERROR_STRIPE_COLOR" value="4d6168" />
       </value>
     </option>
