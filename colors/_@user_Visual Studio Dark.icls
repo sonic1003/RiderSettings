@@ -4,7 +4,7 @@
     <property name="created">2018-08-23T15:26:55</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2018.1.4.0.0</property>
-    <property name="modified">2018-09-19T12:06:34</property>
+    <property name="modified">2019-01-17T14:05:04</property>
     <property name="originalScheme">Visual Studio Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -25,7 +25,8 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="a610" />
+        <option name="BACKGROUND" value="870f" />
+        <option name="FONT_TYPE" value="3" />
         <option name="ERROR_STRIPE_COLOR" value="ff19" />
       </value>
     </option>
@@ -40,9 +41,12 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="KOTLIN_LABEL">
+      <value />
+    </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="ff02d2" />
+        <option name="BACKGROUND" value="3b514d" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
