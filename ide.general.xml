@@ -15,5 +15,6 @@
     <entry key="actionSystem.fix.alt.gr" value="false" />
     <entry key="ide.tree.horizontal.default.autoscrolling" value="false" />
     <entry key="ide.mac.allowDarkWindowDecorations" value="true" />
+    <entry key="parameter.info.max.visible.rows" value="10" />
   </component>
 </application>
