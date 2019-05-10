@@ -4,17 +4,17 @@
     <property name="created">2019-05-06T18:09:00</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2019-05-06T22:02:47</property>
+    <property name="modified">2019-05-10T12:12:25</property>
     <property name="originalScheme">Joker Light (rainglow)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
   <font>
-    <option name="EDITOR_FONT_NAME" value="Fira Code" />
+    <option name="EDITOR_FONT_NAME" value="Fira Code Medium" />
     <option name="EDITOR_FONT_SIZE" value="14" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
-    <option name="EDITOR_FONT_SIZE" value="14" />
+    <option name="EDITOR_FONT_SIZE" value="16" />
   </font>
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
@@ -574,7 +574,7 @@
     </option>
     <option name="CTRL_CLICKABLE">
       <value>
-        <option name="FOREGROUND" value="b27d" />
+        <option name="FOREGROUND" value="af89" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -1236,8 +1236,9 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
+        <option name="BACKGROUND" value="e047c2" />
         <option name="EFFECT_COLOR" value="fffbf7" />
-        <option name="ERROR_STRIPE_COLOR" value="4f4f4f" />
+        <option name="ERROR_STRIPE_COLOR" value="e047c2" />
       </value>
     </option>
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
@@ -1987,8 +1988,9 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="b39613" />
+        <option name="BACKGROUND" value="e047c2" />
+        <option name="FONT_TYPE" value="3" />
+        <option name="EFFECT_COLOR" value="e0bc00" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -3437,6 +3439,7 @@
     <option name="UNMATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ff5370" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="Unresolved reference access">
@@ -3474,8 +3477,9 @@
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
+        <option name="BACKGROUND" value="e047c2" />
         <option name="EFFECT_COLOR" value="fffbf7" />
-        <option name="ERROR_STRIPE_COLOR" value="4f4f4f" />
+        <option name="ERROR_STRIPE_COLOR" value="e047c2" />
       </value>
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
