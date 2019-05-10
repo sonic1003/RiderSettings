@@ -4,13 +4,13 @@
     <property name="created">2019-05-07T10:46:45</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2019-05-07T15:39:44</property>
+    <property name="modified">2019-05-10T14:14:29</property>
     <property name="originalScheme">Jingle (rainglow)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
   <font>
-    <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="16" />
+    <option name="EDITOR_FONT_NAME" value="Ayuthaya" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
@@ -1236,9 +1236,9 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="9778e0" />
-        <option name="EFFECT_COLOR" value="fffbf7" />
-        <option name="ERROR_STRIPE_COLOR" value="9778e0" />
+        <option name="BACKGROUND" value="36a0e0" />
+        <option name="EFFECT_COLOR" value="e04900" />
+        <option name="ERROR_STRIPE_COLOR" value="46dfe0" />
       </value>
     </option>
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
@@ -3476,8 +3476,9 @@
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="fffbf7" />
-        <option name="ERROR_STRIPE_COLOR" value="9778e0" />
+        <option name="BACKGROUND" value="36a0e0" />
+        <option name="EFFECT_COLOR" value="e04900" />
+        <option name="ERROR_STRIPE_COLOR" value="46dfe0" />
       </value>
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
